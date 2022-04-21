@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Twitter follow](https://img.shields.io/twitter/follow/conservbytes?label=%20%40ConservBytes&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/FredSaltre)
+[![Twitter follow](https://img.shields.io/twitter/follow/FredSaltre?label=%20%40FredSaltre&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/FredSaltre)
