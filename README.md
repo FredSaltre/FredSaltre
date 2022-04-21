@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **FredSaltre/FredSaltre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![GitHub followers](https://img.shields.io/github/followers/cjabradshaw?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2Fcjabradshaw)
 [![Twitter follow](https://img.shields.io/twitter/follow/FredSaltre?label=%20%40FredSaltre&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/FredSaltre)
