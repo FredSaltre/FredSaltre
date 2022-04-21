@@ -27,3 +27,7 @@ I am an ecologist interested in how ecosystems change through space and time. I 
 I joined Flinders University in the College of Science and Engineering in July 2017 as Research Fellow in Ecological Modelling for the ARC Centre of Excellence for Australian Biodiversity and Heritage. I am the Coordinator of the Global Ecology Laboratory (with Professor Corey Bradshaw) and a member of the Weisbecker Lab (with Associate Professor Vera Weisbecker).
 
 From 2013 to 2017, I was an ARC Research Associate at the University of Adelaide. Previously, I held a joint one year appointment with the Centre for Bio-Archaeology and Ecology and the School of Advanced Studies (EPHE) as Lecturer at Montpellier (France), and was a Postdoctoral Scholar at the Oregon State University (USA).
+
+[<img src=“CABAH.png” alt=“ARC Centre of Excellence for Australian Biodiversity and Heritage” width=“130" align=“right” />](http://EpicAustralia.org.au)
+[<img src=“F_V_CMYK.png” alt=“Flinders University” width=“100" align=“right” />](http://www.flinders.edu.au)
+[<img src=“GEL Logo Kaurna transparent.png” alt=“Global Ecology Laboratory” width=“100" align=“right” />](http://GlobalEcologyFlinders.com)
